@@ -1,0 +1,38 @@
+[
+  {
+    "scheme": "light",
+    "state": "before",
+    "file": "macos-brand-before-light.png",
+    "reading": {
+      "tag": "SPAN",
+      "colour": "oklch(0.198994 0.0000497986 23.7884)"
+    }
+  },
+  {
+    "scheme": "light",
+    "state": "after",
+    "file": "macos-brand-after-light.png",
+    "reading": {
+      "tag": "SPAN",
+      "colour": "rgb(229, 57, 53)"
+    }
+  },
+  {
+    "scheme": "dark",
+    "state": "before",
+    "file": "macos-brand-before-dark.png",
+    "reading": {
+      "tag": "SPAN",
+      "colour": "oklch(0.994421 0.0000106083 23.7745)"
+    }
+  },
+  {
+    "scheme": "dark",
+    "state": "after",
+    "file": "macos-brand-after-dark.png",
+    "reading": {
+      "tag": "SPAN",
+      "colour": "rgb(229, 57, 53)"
+    }
+  }
+]
