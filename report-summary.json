@@ -1,0 +1,43 @@
+{
+  "complete": false,
+  "unverified": [
+    "Real settings entry and three-effect UI matrix on this exact candidate",
+    "Reduced/forced-colors and persistence through the real settings UI"
+  ],
+  "limitation": "Settings navigation used a shortcut inconsistent with the rc.5 macOS keymap; the run stopped at navigation, before those assertions. Six state/accessibility checks passed; this is partial proof, not a complete real-host pass.",
+  "candidateCommit": "cd214eb082978992680518d59f6b81780e922901",
+  "base": "00e3a83",
+  "build": "c79d01d44a68",
+  "host": "DSH Desktop 0.2.1-rc.5 isolated Web client on macOS",
+  "checks": [
+    {
+      "name": "candidate build identity on official rc.5",
+      "pass": true
+    },
+    {
+      "name": "fresh original default breathe",
+      "pass": true
+    },
+    {
+      "name": "native background done blue; question and plan yellow",
+      "pass": true
+    },
+    {
+      "name": "native accessible Running retained",
+      "pass": true
+    },
+    {
+      "name": "official agentloop running uses original breathing dot",
+      "pass": true
+    },
+    {
+      "name": "plain native title text replacement automatically observed",
+      "pass": true
+    }
+  ],
+  "screenshots": {
+    "native-light-sidebar.png": "8966b4723394ec3dff122416c304ab71112989298d5d528784187c04bc4e2b6b",
+    "native-dark-sidebar.png": "43dc793c484813cfaf4b6188019a9880cec225616d4a9fe57ac7e65b2424fd51"
+  },
+  "boundary": "Loopback scripted model only; no production sessions, credentials, proprietary resources or profile settings published."
+}
