@@ -1,0 +1,60 @@
+{
+  "variant": "after",
+  "assertions": {
+    "backgroundNotOpened": true,
+    "pinUnpin": true,
+    "ellipsis": true,
+    "nativeArchiveCustomUnarchive": true,
+    "nativeStatusPreserved": true,
+    "trailingCompleted": true
+  },
+  "boundary": "Real isolated DSH Desktop rc.5; real SessionController/Store fixture and native model runtime; model traffic loopback scripted only.",
+  "buildId": "1f032639c040",
+  "running": {
+    "state": "ongoing",
+    "row": {
+      "x": 12,
+      "width": 261
+    },
+    "status": {
+      "x": 257,
+      "width": 6
+    },
+    "statusText": "",
+    "slotVisibility": "visible",
+    "nativeStates": [
+      "ongoing"
+    ],
+    "feature": "active"
+  },
+  "completed": {
+    "state": "done",
+    "row": {
+      "x": 12,
+      "width": 261
+    },
+    "status": {
+      "x": 255,
+      "width": 10
+    },
+    "statusText": "",
+    "slotVisibility": "visible",
+    "nativeStates": [
+      "done"
+    ],
+    "feature": "active"
+  },
+  "idle": {
+    "nativeIdle": false,
+    "visibility": "hidden",
+    "pseudo": "none"
+  },
+  "inlineButtonCount": 0,
+  "modelRequests": 1,
+  "pageErrors": [],
+  "success": true,
+  "sourceBase": "5259da93f1beec072345d7b7a04fd5548cefe7ea",
+  "productCommit": "e58467f",
+  "testOnlyFollowup": "a004663",
+  "beforeCaptureAvailable": false
+}
