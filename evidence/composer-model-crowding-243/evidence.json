@@ -1,0 +1,937 @@
+{
+  "baseCommit": "a759b1e718f911877970582059671ee0ae80f5b1",
+  "candidateCommit": "e98c43abcce7ee5d530b3c9a95c7785c52b5540c",
+  "capture": "Actual Desktop rc.5 frontend in isolated DSH Web homes on macOS, not physical Electron or Windows",
+  "pressure": "Explicit 240 CSS px right-slot occupancy, not authenticated account quota",
+  "profiles": {
+    "codex": "Actual current real Codex model-slot winner and all selected real plugins",
+    "theme": "Separate authorized profile without Codex; remaining real plugins; not original user combination"
+  },
+  "runs": [
+    {
+      "phase": "baseline",
+      "ownerProfile": "codex",
+      "buildId": "6b0bf6f5805d",
+      "clientSha256": "8b3c8ff11c02ebb2f8a87ae8464186394f303aae7d7a501e75ad9b9e9a897b57",
+      "ok": false,
+      "geometry": {
+        "pass": 5,
+        "total": 14
+      },
+      "actions": {
+        "pass": 29,
+        "total": 33
+      },
+      "failedActions": [
+        {
+          "id": "final-inline-rtl-model-switch",
+          "error": "Error: Actual model entry intercepted; no forced click"
+        },
+        {
+          "id": "actual-usage-narrow-model-switch",
+          "error": "Error: Actual model entry intercepted; no forced click"
+        },
+        {
+          "id": "label-proof-480-240-switch",
+          "error": "Error: Actual model entry intercepted; no forced click"
+        },
+        {
+          "id": "final-after-width-drag-model-switch",
+          "error": "Error: Actual model entry intercepted; no forced click"
+        }
+      ],
+      "hostExitObserved": true,
+      "installationUnchanged": true,
+      "reportSha256": "95b6bd890adf52eb424b62bd5f41315e49548443ab43eabe8830e8fa1ce3a340",
+      "scenarios": [
+        {
+          "id": "inline-wide-100",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "inline-480-1",
+          "failures": [
+            "Action center intercepted: ",
+            "Visible action boxes overlap"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "inline-480-1.25",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: ",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 92,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-inline-400-150-rtl",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: ",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: "
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 920,
+          "composerX": 919,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "final-ltr-wide-return",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-running-stop",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-usage-wide",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-usage-400-150",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "final-long-draft-caret",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "multiline-400-150",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "label-proof-700-240",
+          "failures": [
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "label-proof-480-240",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 266,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 63,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "final-after-width-drag-narrow",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "core-final-restored",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        }
+      ]
+    },
+    {
+      "phase": "baseline",
+      "ownerProfile": "theme",
+      "buildId": "6b0bf6f5805d",
+      "clientSha256": "8b3c8ff11c02ebb2f8a87ae8464186394f303aae7d7a501e75ad9b9e9a897b57",
+      "ok": false,
+      "geometry": {
+        "pass": 5,
+        "total": 14
+      },
+      "actions": {
+        "pass": 28,
+        "total": 32
+      },
+      "failedActions": [
+        {
+          "id": "final-inline-rtl-model-switch",
+          "error": "Error: Actual model entry intercepted; no forced click"
+        },
+        {
+          "id": "actual-usage-narrow-model-switch",
+          "error": "Error: Actual model entry intercepted; no forced click"
+        },
+        {
+          "id": "label-proof-480-240-switch",
+          "error": "Error: Actual model entry intercepted; no forced click"
+        },
+        {
+          "id": "final-after-width-drag-model-switch",
+          "error": "Error: Actual model entry intercepted; no forced click"
+        }
+      ],
+      "hostExitObserved": true,
+      "installationUnchanged": true,
+      "reportSha256": "1b84e85fec4e3965db197cee5984df0c765dd6ef6a6e3f9a1bf54a437e50d560",
+      "scenarios": [
+        {
+          "id": "inline-wide-100",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "inline-480-1",
+          "failures": [
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 97,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "inline-480-1.25",
+          "failures": [
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u5b8c\u5168\u6743\u9650",
+            "Action escapes center: \u5b8c\u5168\u6743\u9650"
+          ],
+          "outerRootScrollLeft": 72.80000305175781,
+          "centerX": 280,
+          "composerX": 189,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 7,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-inline-400-150-rtl",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: ",
+            "Visible action boxes overlap",
+            "Action escapes center: "
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 920,
+          "composerX": 920,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 0,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "final-ltr-wide-return",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-running-stop",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-usage-wide",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-usage-400-150",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 0,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "final-long-draft-caret",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 0,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "multiline-400-150",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 0,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "label-proof-700-240",
+          "failures": [
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 23,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "label-proof-480-240",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u63a8\u7406\u7b49\u7ea7 High",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action escapes center: \u63a8\u7406\u7b49\u7ea7 High",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 20,
+          "centerX": 280,
+          "composerX": 250,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 0,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "final-after-width-drag-narrow",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 0,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": false
+        },
+        {
+          "id": "core-final-restored",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        }
+      ]
+    },
+    {
+      "phase": "candidate",
+      "ownerProfile": "codex",
+      "buildId": "ae45d2051862",
+      "clientSha256": "04153945ef1b92c7d6e2a682b489a7edda7495c220986b5dfe79a8cc309af396",
+      "ok": false,
+      "geometry": {
+        "pass": 7,
+        "total": 14
+      },
+      "actions": {
+        "pass": 33,
+        "total": 33
+      },
+      "failedActions": [],
+      "hostExitObserved": true,
+      "installationUnchanged": true,
+      "reportSha256": "26585e82db5f02f1a285644cd32bf4e4a5ca6226ae84261e4af0a2fbfa1c0e81",
+      "scenarios": [
+        {
+          "id": "inline-wide-100",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "inline-480-1",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "inline-480-1.25",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 92,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-inline-400-150-rtl",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 920,
+          "composerX": 920,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-ltr-wide-return",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-running-stop",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-usage-wide",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-usage-400-150",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-long-draft-caret",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "multiline-400-150",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "label-proof-700-240",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "label-proof-480-240",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 63,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-after-width-drag-narrow",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 39,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "core-final-restored",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "codexModelSelectLabel",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        }
+      ]
+    },
+    {
+      "phase": "candidate",
+      "ownerProfile": "theme",
+      "buildId": "ae45d2051862",
+      "clientSha256": "04153945ef1b92c7d6e2a682b489a7edda7495c220986b5dfe79a8cc309af396",
+      "ok": true,
+      "geometry": {
+        "pass": 14,
+        "total": 14
+      },
+      "actions": {
+        "pass": 32,
+        "total": 32
+      },
+      "failedActions": [],
+      "hostExitObserved": true,
+      "installationUnchanged": true,
+      "reportSha256": "2fcfd0f249b83f0c094cd625e41db37762a02f8c16f270c52059057507ce507d",
+      "scenarios": [
+        {
+          "id": "inline-wide-100",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "inline-480-1",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "inline-480-1.25",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-inline-400-150-rtl",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 920,
+          "composerX": 920,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-ltr-wide-return",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-running-stop",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-usage-wide",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "actual-usage-400-150",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-long-draft-caret",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "multiline-400-150",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "label-proof-700-240",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "label-proof-480-240",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "final-after-width-drag-narrow",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        },
+        {
+          "id": "core-final-restored",
+          "failures": [],
+          "outerRootScrollLeft": 0,
+          "centerX": 280,
+          "composerX": 280,
+          "modelLabelClass": "dsh-claude-model-btn-label dsh-claude-swap-label",
+          "modelLabelClientWidth": 129,
+          "modelLabelScrollWidth": 129,
+          "actualModelCenterHit": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file": "theme-before.png",
+      "sha256": "b917c708f6fa210119e9d02ba60d3a6bf148acb90e8a0ec4ae8fcfe16d55fd09",
+      "ownerProfile": "theme",
+      "phase": "baseline",
+      "captureClip": {
+        "x": 280,
+        "y": 863,
+        "width": 700,
+        "height": 137
+      },
+      "transform": "None; direct privacy-checked browser clip; no resampling or target edits",
+      "publicManifestSha256": "285e59f45987afe532261bf3e0f741da303a5af17410d76e7aae7ff62bb0a4dc"
+    },
+    {
+      "file": "theme-after.png",
+      "sha256": "d856dfc904fca014113395f31a9ea70d7984c7e54ed1480a2654fd28d710b291",
+      "ownerProfile": "theme",
+      "phase": "candidate",
+      "captureClip": {
+        "x": 280,
+        "y": 831,
+        "width": 700,
+        "height": 169
+      },
+      "transform": "None; direct privacy-checked browser clip; no resampling or target edits",
+      "publicManifestSha256": "b7b0055e035971203d957ccfe9e754edb175d78f513eeb6bd564f703bde3e32a"
+    },
+    {
+      "file": "codex-before.png",
+      "sha256": "437983ed7eefda705c1ae4d8e85a3abcf418f674fe131512de4ec675b40a6cfd",
+      "ownerProfile": "codex",
+      "phase": "baseline",
+      "captureClip": {
+        "x": 280,
+        "y": 863,
+        "width": 700,
+        "height": 137
+      },
+      "transform": "None; direct privacy-checked browser clip; no resampling or target edits",
+      "publicManifestSha256": "59ddb10c275a431e91b14db66c20581f6315aa081b025443201eb8f8b692fd4b"
+    },
+    {
+      "file": "codex-after.png",
+      "sha256": "05e780ed5aa4093944e7509a0a5381cbdbae01e1d383e3942116d9280b5f86e4",
+      "ownerProfile": "codex",
+      "phase": "candidate",
+      "captureClip": {
+        "x": 280,
+        "y": 831,
+        "width": 700,
+        "height": 169
+      },
+      "transform": "None; direct privacy-checked browser clip; no resampling or target edits",
+      "publicManifestSha256": "4c56311fc35b48897a49a7ee664bc54fb86a34a4562f355714051addfe44dee9"
+    }
+  ]
+}
