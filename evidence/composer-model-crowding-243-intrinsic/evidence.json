@@ -1,0 +1,404 @@
+{
+  "baseCommit": "a759b1e718f911877970582059671ee0ae80f5b1",
+  "candidateCommit": "d1adf19bfab70a2aa2ee824a21f94dbef27f09c4",
+  "capture": "Actual Desktop rc.5 frontend in isolated DSH Web homes on macOS, not physical Electron or Windows",
+  "pressure": "Explicit 240 CSS px right-slot occupancy, not authenticated account quota",
+  "profiles": {
+    "theme": "Separate profile without Codex takeover; other real plugins remain",
+    "codex": "Real Codex priority -10 model-slot winner"
+  },
+  "runs": [
+    {
+      "phase": "baseline",
+      "owner": "theme",
+      "build": "6b0bf6f5805d",
+      "sha": "8b3c8ff11c02ebb2f8a87ae8464186394f303aae7d7a501e75ad9b9e9a897b57",
+      "ok": false,
+      "geometryPassed": 5,
+      "geometryTotal": 14,
+      "actionsPassed": 28,
+      "actionsTotal": 32,
+      "geometryFailures": [
+        {
+          "id": "inline-480-1",
+          "failures": [
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label"
+          ]
+        },
+        {
+          "id": "inline-480-1.25",
+          "failures": [
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u5b8c\u5168\u6743\u9650",
+            "Action escapes center: \u5b8c\u5168\u6743\u9650"
+          ]
+        },
+        {
+          "id": "final-inline-400-150-rtl",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: ",
+            "Visible action boxes overlap",
+            "Action escapes center: "
+          ]
+        },
+        {
+          "id": "actual-usage-400-150",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        },
+        {
+          "id": "final-long-draft-caret",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        },
+        {
+          "id": "multiline-400-150",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        },
+        {
+          "id": "label-proof-700-240",
+          "failures": [
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label"
+          ]
+        },
+        {
+          "id": "label-proof-480-240",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u63a8\u7406\u7b49\u7ea7 High",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action escapes center: \u63a8\u7406\u7b49\u7ea7 High",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        },
+        {
+          "id": "final-after-width-drag-narrow",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name label collapsed; release tag alone is not a model name",
+            "Actual model name clips: dsh-claude-model-btn-label dsh-claude-swap-label",
+            "Action center intercepted: \u9009\u62e9\u6a21\u578b\uff0c\u5f53\u524d DeepSeek-V4.1-Flash 1017",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        }
+      ],
+      "hostExitObserved": true,
+      "installationUnchanged": true,
+      "failedActions": [
+        {
+          "id": "final-inline-rtl-model-switch",
+          "ok": false
+        },
+        {
+          "id": "actual-usage-narrow-model-switch",
+          "ok": false
+        },
+        {
+          "id": "label-proof-480-240-switch",
+          "ok": false
+        },
+        {
+          "id": "final-after-width-drag-model-switch",
+          "ok": false
+        }
+      ],
+      "reportSha256": "1b84e85fec4e3965db197cee5984df0c765dd6ef6a6e3f9a1bf54a437e50d560"
+    },
+    {
+      "phase": "candidate",
+      "owner": "theme",
+      "build": "abc326397602",
+      "sha": "49c26de4119fc0fa8c603419987662129ee83d085c24f4f68ef231d205fb223f",
+      "ok": true,
+      "geometryPassed": 14,
+      "geometryTotal": 14,
+      "actionsPassed": 32,
+      "actionsTotal": 32,
+      "geometryFailures": [],
+      "hostExitObserved": true,
+      "installationUnchanged": true,
+      "failedActions": [],
+      "reportSha256": "b942e55a2773b51c43187de6eb8104f7e9cfd46040a3623d038871c0a8b2a887"
+    },
+    {
+      "phase": "baseline",
+      "owner": "codex",
+      "build": "6b0bf6f5805d",
+      "sha": "8b3c8ff11c02ebb2f8a87ae8464186394f303aae7d7a501e75ad9b9e9a897b57",
+      "ok": false,
+      "geometryPassed": 5,
+      "geometryTotal": 14,
+      "actionsPassed": 29,
+      "actionsTotal": 33,
+      "geometryFailures": [
+        {
+          "id": "inline-480-1",
+          "failures": [
+            "Action center intercepted: ",
+            "Visible action boxes overlap"
+          ]
+        },
+        {
+          "id": "inline-480-1.25",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: ",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash"
+          ]
+        },
+        {
+          "id": "final-inline-400-150-rtl",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: ",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: "
+          ]
+        },
+        {
+          "id": "actual-usage-400-150",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        },
+        {
+          "id": "final-long-draft-caret",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        },
+        {
+          "id": "multiline-400-150",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        },
+        {
+          "id": "label-proof-700-240",
+          "failures": [
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash"
+          ]
+        },
+        {
+          "id": "label-proof-480-240",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        },
+        {
+          "id": "final-after-width-drag-narrow",
+          "failures": [
+            "Model entry center intercepted",
+            "Actual model name clips: codexModelSelectLabel",
+            "Action center intercepted: DeepSeek-V4.1-Flash",
+            "Action center intercepted: \u4e0a\u4e0b\u6587\u5df2\u7528 25%",
+            "Visible action boxes overlap",
+            "Action escapes center: DeepSeek-V4.1-Flash",
+            "Action escapes center: \u4e0a\u4e0b\u6587\u5df2\u7528 25%"
+          ]
+        }
+      ],
+      "hostExitObserved": true,
+      "installationUnchanged": true,
+      "failedActions": [
+        {
+          "id": "final-inline-rtl-model-switch",
+          "ok": false
+        },
+        {
+          "id": "actual-usage-narrow-model-switch",
+          "ok": false
+        },
+        {
+          "id": "label-proof-480-240-switch",
+          "ok": false
+        },
+        {
+          "id": "final-after-width-drag-model-switch",
+          "ok": false
+        }
+      ],
+      "reportSha256": "95b6bd890adf52eb424b62bd5f41315e49548443ab43eabe8830e8fa1ce3a340"
+    },
+    {
+      "phase": "candidate",
+      "owner": "codex",
+      "build": "abc326397602",
+      "sha": "49c26de4119fc0fa8c603419987662129ee83d085c24f4f68ef231d205fb223f",
+      "ok": false,
+      "geometryPassed": 7,
+      "geometryTotal": 14,
+      "actionsPassed": 33,
+      "actionsTotal": 33,
+      "geometryFailures": [
+        {
+          "id": "inline-480-1.25",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ]
+        },
+        {
+          "id": "final-inline-400-150-rtl",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ]
+        },
+        {
+          "id": "actual-usage-400-150",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ]
+        },
+        {
+          "id": "final-long-draft-caret",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ]
+        },
+        {
+          "id": "multiline-400-150",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ]
+        },
+        {
+          "id": "label-proof-480-240",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ]
+        },
+        {
+          "id": "final-after-width-drag-narrow",
+          "failures": [
+            "Actual model name clips: codexModelSelectLabel"
+          ]
+        }
+      ],
+      "hostExitObserved": true,
+      "installationUnchanged": true,
+      "failedActions": [],
+      "reportSha256": "b338f976e50f5b1521fb053114eac7c77bcbaba526c941e7fe8237d2af4377aa"
+    }
+  ],
+  "images": [
+    {
+      "file": "theme-before.png",
+      "sha256": "b917c708f6fa210119e9d02ba60d3a6bf148acb90e8a0ec4ae8fcfe16d55fd09",
+      "ownerProfile": "theme",
+      "phase": "baseline",
+      "captureClip": {
+        "x": 280,
+        "y": 863,
+        "width": 700,
+        "height": 137
+      },
+      "transform": "None; direct privacy-checked browser clip; no resampling or target edits",
+      "publicManifestSha256": "285e59f45987afe532261bf3e0f741da303a5af17410d76e7aae7ff62bb0a4dc"
+    },
+    {
+      "file": "theme-after.png",
+      "sha256": "d856dfc904fca014113395f31a9ea70d7984c7e54ed1480a2654fd28d710b291",
+      "ownerProfile": "theme",
+      "phase": "candidate",
+      "captureClip": {
+        "x": 280,
+        "y": 831,
+        "width": 700,
+        "height": 169
+      },
+      "transform": "None; direct privacy-checked browser clip; no resampling or target edits",
+      "publicManifestSha256": "716902f0d7b19590c6e0f4a79de7a276ee44f5c01020c1615bc99dbe6d7cf3cf"
+    },
+    {
+      "file": "codex-before.png",
+      "sha256": "437983ed7eefda705c1ae4d8e85a3abcf418f674fe131512de4ec675b40a6cfd",
+      "ownerProfile": "codex",
+      "phase": "baseline",
+      "captureClip": {
+        "x": 280,
+        "y": 863,
+        "width": 700,
+        "height": 137
+      },
+      "transform": "None; direct privacy-checked browser clip; no resampling or target edits",
+      "publicManifestSha256": "59ddb10c275a431e91b14db66c20581f6315aa081b025443201eb8f8b692fd4b"
+    },
+    {
+      "file": "codex-after.png",
+      "sha256": "05e780ed5aa4093944e7509a0a5381cbdbae01e1d383e3942116d9280b5f86e4",
+      "ownerProfile": "codex",
+      "phase": "candidate",
+      "captureClip": {
+        "x": 280,
+        "y": 831,
+        "width": 700,
+        "height": 169
+      },
+      "transform": "None; direct privacy-checked browser clip; no resampling or target edits",
+      "publicManifestSha256": "bca07f522ce0c5c45f74d7f7ebcdb464bcc01605a297eb706809db57954de7a6"
+    }
+  ]
+}
